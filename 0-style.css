@@ -1,0 +1,70 @@
+/*header section**/
+body{
+    margin:0px;
+    margin-top: 0px;
+}
+.image-section{
+    background-image: url(images/headphones1.jpg);
+    background-size: cover;
+}
+
+.header-section .container{
+    display:flex;
+    justify-content: flex-end;
+    color: white;
+    
+}
+div.logo{
+    padding-top: 20px;
+}
+.link1{
+    margin:20px;
+    padding:10px;
+    text-align: center;
+    color:whitesmoke;
+    text-decoration: none;
+
+}
+.link2{
+    margin:20px;
+    padding:10px;
+    text-align: center;
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+.link3{
+    margin:20px;
+    padding:10px;
+    text-align: center;
+    color:whitesmoke;
+    text-decoration: none;
+    margin-right: 70px;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+/*action section***/
+.first-section{
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding-top: 200px;
+    text-align: center;
+}
+section .header{
+    
+}
+.button{
+    padding-top: 40px;
+    color: brown;
+    padding-bottom: 100px;
+
+}
+.aside{
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 200px;
+}
